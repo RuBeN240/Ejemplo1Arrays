@@ -1,10 +1,10 @@
 package tarearefuerzoarrays;
 
 public class Compra {
-// Clase para representar una compra
+	    //Atributos referencia y nombreProducto
 	    private String referencia;
 	    private String nombreProducto;
-
+		
 	    // Constructor
 	    public Compra(String referencia, String nombreProducto) {
 	        this.referencia = referencia;
